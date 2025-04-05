@@ -1,0 +1,5 @@
+This project includes third-party code:
+
+Oculus PassthroughCameraApiSamplesCode
+   - License: MIT License
+   - Source: https://github.com/oculus-samples/Unity-PassthroughCameraApiSamples/tree/main/Assets/PassthroughCameraApiSamples/PassthroughCamera/Scripts
